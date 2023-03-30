@@ -1,0 +1,19 @@
+{
+    "Courses":[
+        {
+        "id":1,
+        "name":"Soldadura",
+        "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg"
+        },
+        {
+        "id":2,
+        "name":"Marketing",
+        "img":"https://chet.com.ar/blog/wp-content/uploads/2019/05/Estrategias-de-Marketing-con-orientaci%C3%B3n-digital.jpg"
+        },
+        {
+        "id":3,
+        "name":"Programacion",
+        "img":"https://www.enter.co/wp-content/uploads/2021/08/4884785-768x432.jpg"
+        }
+    ]
+}
