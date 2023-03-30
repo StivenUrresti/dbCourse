@@ -3,17 +3,41 @@
         {
         "id":1,
         "name":"Soldadura",
-        "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg"
+        "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg",
+        "route":""
+        
         },
         {
         "id":2,
         "name":"Marketing",
-        "img":"https://chet.com.ar/blog/wp-content/uploads/2019/05/Estrategias-de-Marketing-con-orientaci%C3%B3n-digital.jpg"
+        "img":"https://chet.com.ar/blog/wp-content/uploads/2019/05/Estrategias-de-Marketing-con-orientaci%C3%B3n-digital.jpg",
+        "route":""
+        
         },
         {
         "id":3,
-        "name":"Programacion",
-        "img":"https://www.enter.co/wp-content/uploads/2021/08/4884785-768x432.jpg"
+        "name":"Matematicas",
+        "img":"https://s2.ppllstatics.com/elcorreo/www/multimedia/202005/08/media/cortadas/984X608-matematicas-kaQG-U11087194903WZF-1968x1216@RC.jpg",
+        "route":""
+        },
+        {
+        "id":4,
+        "name":"Sociales",
+        "img":"https://img.freepik.com/vector-gratis/fondo-ciencia-vintage_23-2148539646.jpg",
+        "route":""
+        },
+        {
+        "id":5,
+        "name":"Maquillaje",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_829893-MCO50680742721_072022-O.jpg",
+        "route":""
+
+        },
+        {
+        "id":6,
+        "name":"Canto",
+        "img":"https://shinemusicschoolonline.com/wp-content/uploads/2020/06/2-3.jpg",
+        "route":""
         }
     ]
 }
