@@ -12,7 +12,7 @@
         "id":2,
         "name":"Marketing",
         "img":"https://chet.com.ar/blog/wp-content/uploads/2019/05/Estrategias-de-Marketing-con-orientaci%C3%B3n-digital.jpg",
-        "route":"Home",
+        "route":"Marketing",
         "iconName":"Marketing"
         
         },
@@ -43,7 +43,7 @@
         "name":"Ingles",
         "img":"https://educacion30.b-cdn.net/wp-content/uploads/2021/11/english-british-england-language-education-concept-1-min-978x652.jpg",
         "route":"Home",
-        "iconName":"magic"
+        "iconName":"language"
 
         },
         {
@@ -51,7 +51,7 @@
         "name":"Historia",
         "img":"https://elucabista.com/wp-content/uploads/2017/01/historia.jpg",
         "route":"Home",
-        "iconName":"magic"
+        "iconName":"globe-americas"
 
         },
         {
