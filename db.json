@@ -4,7 +4,7 @@
         "id":1,
         "name":"Soldadura",
         "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg",
-        "route":"Home",
+        "route":"Welding",
         "iconName":"charging-station"
         
         },
@@ -13,7 +13,7 @@
         "name":"Marketing",
         "img":"https://chet.com.ar/blog/wp-content/uploads/2019/05/Estrategias-de-Marketing-con-orientaci%C3%B3n-digital.jpg",
         "route":"Home",
-        "iconName":"handshake"
+        "iconName":"Marketing"
         
         },
         {
