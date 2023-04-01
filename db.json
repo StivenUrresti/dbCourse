@@ -11,12 +11,36 @@
             {
                 "id":1,
                 "nameMOdule":"que es la soldadura?",
-                "img":"https://image.jimcdn.com/app/cms/image/transf/none/path/s6d9bc9437a8ca541/image/i1b1e1bdc6bb8c1c0/version/1585282278/arco-de-soldadura-con-tungsteno.png"
+                "img":"https://image.jimcdn.com/app/cms/image/transf/none/path/s6d9bc9437a8ca541/image/i1b1e1bdc6bb8c1c0/version/1585282278/arco-de-soldadura-con-tungsteno.png",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Aprender a soldar"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"para que sirve la soldadura?",
-                "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg"
+                "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
         
@@ -32,12 +56,36 @@
             {
                 "id":1,
                 "nameMOdule":"que es Marketing?",
-                "img":"https://blog.connext.es/hs-fs/hubfs/IMGs_Blog_21-01-21_Miercoles.png?width=800&name=IMGs_Blog_21-01-21_Miercoles.png"
+                "img":"https://blog.connext.es/hs-fs/hubfs/IMGs_Blog_21-01-21_Miercoles.png?width=800&name=IMGs_Blog_21-01-21_Miercoles.png",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Para que sirve ?",
-                "img":"https://neo-emarketing.com/wp-content/uploads/2018/03/Marketing-1024x704-1.jpg"
+                "img":"https://neo-emarketing.com/wp-content/uploads/2018/03/Marketing-1024x704-1.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
         
@@ -53,12 +101,36 @@
             {
                 "id":1,
                 "nameMOdule":"Que son las matematicas?",
-                "img":"https://cdn.todamateria.com/imagenes/que-son-las-matematicas-og.jpg"
+                "img":"https://cdn.todamateria.com/imagenes/que-son-las-matematicas-og.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Donde aplicar las Matematicas",
-                "img":"https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+                "img":"https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
         },
@@ -73,12 +145,36 @@
             {
                 "id":1,
                 "nameMOdule":"Que es ciencias  Sociales?",
-                "img":"https://cienciasdelsur.com/wp-content/uploads/2018/08/cientificidad-ciencias-sociales.jpg"
+                "img":"https://cienciasdelsur.com/wp-content/uploads/2018/08/cientificidad-ciencias-sociales.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Para que sirve Sociales",
-                "img":"https://uvg.edu.mx/blog/wp-content/uploads/2020/06/original-120db51902ff455965ef016df359ec00.jpg"
+                "img":"https://uvg.edu.mx/blog/wp-content/uploads/2020/06/original-120db51902ff455965ef016df359ec00.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
         },
@@ -93,12 +189,36 @@
             {
                 "id":1,
                 "nameMOdule":"Que es maquillaje ?",
-                "img":"https://upload.wikimedia.org/wikipedia/commons/2/22/Self_make_up_by_an_artist.jpg"
+                "img":"https://upload.wikimedia.org/wikipedia/commons/2/22/Self_make_up_by_an_artist.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Colores basicos",
-                "img":"https://danaperfumerias.com/blog/wp-content/uploads/2022/05/maquillaje-no-comedogenico.jpg"
+                "img":"https://danaperfumerias.com/blog/wp-content/uploads/2022/05/maquillaje-no-comedogenico.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
 
@@ -114,12 +234,36 @@
             {
                 "id":1,
                 "nameMOdule":"porque es importante ?",
-                "img":"https://www.conmishijos.com/uploads/educacion/kidsclub.jpg"
+                "img":"https://www.conmishijos.com/uploads/educacion/kidsclub.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Vocabulario en ingles",
-                "img":"https://www.mundoprimaria.com/wp-content/uploads/2015/02/La-ropa-en-ingles-MundoPrimaria-1024x742.jpg"
+                "img":"https://www.mundoprimaria.com/wp-content/uploads/2015/02/La-ropa-en-ingles-MundoPrimaria-1024x742.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
 
@@ -135,12 +279,36 @@
             {
                 "id":1,
                 "nameMOdule":"Que es Historia ?",
-                "img":"https://humanidades.com/wp-content/uploads/2017/05/Historia-portada-e1658932155344.jpg"
+                "img":"https://humanidades.com/wp-content/uploads/2017/05/Historia-portada-e1658932155344.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             },
             {
                 "id":2,
                 "nameMOdule":"Acontecimientos Historicos",
-                "img":"https://concepto.de/wp-content/uploads/2015/05/historia-prehistoria-e1589338102500.jpg"
+                "img":"https://concepto.de/wp-content/uploads/2015/05/historia-prehistoria-e1589338102500.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
 
@@ -156,7 +324,19 @@
             {
                 "id":1,
                 "nameMOdule":"Que es el canto ?",
-                "img":"https://cdn2.melodijolola.com/media/files/styles/nota_imagen/public/field/image/ninos-cantan.jpg"
+                "img":"https://cdn2.melodijolola.com/media/files/styles/nota_imagen/public/field/image/ninos-cantan.jpg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Primeros Pasos"
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Practicar en casa"
+
+                    }
+                ]
             }
         ]
         }
