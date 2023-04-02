@@ -41,6 +41,23 @@
 
                     }
                 ]
+            },
+            {
+                "id":3,
+                "nameMOdule":"Primeros pasos en la soldadura",
+                "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg",
+                "Units":[
+                    {
+                        "id":1,
+                        "unitTltle":"Soldar alambre "
+
+                    },
+                    {
+                        "id":2,
+                        "unitTltle":"Utilidad de soldar"
+
+                    }
+                ]
             }
         ]
         
