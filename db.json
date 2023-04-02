@@ -9,7 +9,7 @@
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,",
         "Module":[
             {
-                "id":1,
+                "idModule":1,
                 "nameMOdule":"que es la soldadura?",
                 "img":"https://image.jimcdn.com/app/cms/image/transf/none/path/s6d9bc9437a8ca541/image/i1b1e1bdc6bb8c1c0/version/1585282278/arco-de-soldadura-con-tungsteno.png",
                 "Units":[
@@ -26,7 +26,7 @@
                 ]
             },
             {
-                "id":2,
+                "iidModuled":2,
                 "nameMOdule":"para que sirve la soldadura?",
                 "img":"https://domingoserna.com/wp-content/uploads/2021/11/Curiosidades-sobre-la-soldadura-scaled.jpeg",
                 "Units":[
@@ -54,7 +54,7 @@
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,",
         "Module":[
             {
-                "id":1,
+                "idModule":1,
                 "nameMOdule":"que es Marketing?",
                 "img":"https://blog.connext.es/hs-fs/hubfs/IMGs_Blog_21-01-21_Miercoles.png?width=800&name=IMGs_Blog_21-01-21_Miercoles.png",
                 "Units":[
@@ -71,7 +71,7 @@
                 ]
             },
             {
-                "id":2,
+                "idModule":2,
                 "nameMOdule":"Para que sirve ?",
                 "img":"https://neo-emarketing.com/wp-content/uploads/2018/03/Marketing-1024x704-1.jpg",
                 "Units":[
@@ -99,7 +99,7 @@
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,",
         "Module":[
             {
-                "id":1,
+                "idModule":1,
                 "nameMOdule":"Que son las matematicas?",
                 "img":"https://cdn.todamateria.com/imagenes/que-son-las-matematicas-og.jpg",
                 "Units":[
@@ -116,7 +116,7 @@
                 ]
             },
             {
-                "id":2,
+                "idModule":2,
                 "nameMOdule":"Donde aplicar las Matematicas",
                 "img":"https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg",
                 "Units":[
@@ -143,7 +143,7 @@
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,",
         "Module":[
             {
-                "id":1,
+                "idModule":1,
                 "nameMOdule":"Que es ciencias  Sociales?",
                 "img":"https://cienciasdelsur.com/wp-content/uploads/2018/08/cientificidad-ciencias-sociales.jpg",
                 "Units":[
@@ -160,7 +160,7 @@
                 ]
             },
             {
-                "id":2,
+                "idModule":2,
                 "nameMOdule":"Para que sirve Sociales",
                 "img":"https://uvg.edu.mx/blog/wp-content/uploads/2020/06/original-120db51902ff455965ef016df359ec00.jpg",
                 "Units":[
